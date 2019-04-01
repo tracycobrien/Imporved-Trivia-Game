@@ -1,0 +1,29 @@
+body {
+    font-family: impact, fantasy;
+    background-image: url("../images/world.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+  }
+  .jumbotron{
+    background: rgba(14, 125, 216, 0.801);
+    color: rgb(255, 238, 0);
+}
+  
+
+  h1, h2, h3{
+      text-align: center;
+      
+  }
+
+  p{
+    text-align: center;
+    font-family: impact, family; 
+    padding-top: 15px;
+  
+}
+.btn-group-lg{
+  color: black;
+}
