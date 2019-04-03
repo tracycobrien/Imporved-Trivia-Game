@@ -17,4 +17,4 @@ I created a trivia form with multiple choice questions with one question per pag
 
 * Include a countdown timer.
 
-[Space-Trivia-Game] (https://tracycobrien.github.io/Imporved-Trivia-Game/)
+[Space-Trivia-Game] (https://tracycobrien.github.io/Improved-Trivia-Game/)
